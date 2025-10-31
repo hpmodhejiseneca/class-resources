@@ -3,7 +3,7 @@
 ## Study Tips
 - Take notes during lectures
 - Review material weekly
-- Use flashcards and space repetition
+- Use flashcards and spaced-repetition
 
 ## Useful Links
 - [Course website](https://github.com/seneca-cep146/cep146/blob/main/labs/lab-06.md)
