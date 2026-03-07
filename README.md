@@ -1,4 +1,4 @@
-# Class Resources
+Form study groups with classmates
 
 ## Study Tips
 - Take notes during lectures
